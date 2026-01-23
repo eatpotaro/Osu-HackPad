@@ -3,7 +3,7 @@ Hackpad for blueprint run by Hack Club
 
 # Features
 - 4 keys used for 4K osu!mania and osu!
-- 0.91 inch OLED display for a lil cat or maybe stats of keypresses depending on what youre into
+- 0.91 inch OLED display to display recent keypresses
 - KMK support
 
 # CAD Model
