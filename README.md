@@ -9,6 +9,8 @@ Hackpad for blueprint run by Hack Club
 # CAD Model
 Designed using Fusion360. 
 Heres images of the plate, the case, and both together
+<img width="1520" height="722" alt="osupad_2026-Jan-23_08-01-32PM-000_CustomizedView10852831451" src="https://github.com/user-attachments/assets/27843fe4-ef9d-4f6e-8529-8b061bd4afd1" />
+<img width="1520" height="722" alt="osupad_2026-Jan-23_08-11-39PM-000_CustomizedView32761386832" src="https://github.com/user-attachments/assets/35096d85-c81e-4f5d-a691-58ee178bf82e" />
 
 Hopefully using the heatset inserts and bolts and stuff this fits together
 # PCB
