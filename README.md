@@ -18,9 +18,6 @@ Designed using KiCAD. Im quite happy with the routing on the PCB
 <img width="1046" height="611" alt="image" src="https://github.com/user-attachments/assets/611d7253-ec04-432e-88ab-5d18d9c4851d" />
 <img width="1015" height="660" alt="image" src="https://github.com/user-attachments/assets/b9e13417-a368-497a-886c-258006e820d0" />
 
-# Firmware
-Using KMK. hopefully coming soon
-
 # BOM
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
