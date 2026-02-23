@@ -28,3 +28,12 @@ Designed using KiCAD. Im quite happy with the routing on the PCB
 - 1x Case
 - 1x Plate
 - 1x XIAO RP2040
+
+# Pictures
+Pictures of finished product
+![20260223_190253](https://github.com/user-attachments/assets/8534273d-af15-4d9e-b97e-ee82c80a35da)
+![20260223_190243](https://github.com/user-attachments/assets/95b4a633-7cea-4934-93c5-34ec7e78253c)
+![20260223_190237](https://github.com/user-attachments/assets/0e3e0fe1-fb8b-4e95-b64a-370a356ce972)
+![20260223_190232](https://github.com/user-attachments/assets/f538cfe7-54f5-47d6-abd4-61e90855b8f7)
+![20260223_190224](https://github.com/user-attachments/assets/d7ba1d14-64f4-49e4-a615-1aeec4d14814)
+![20260223_190417](https://github.com/user-attachments/assets/75ffb50b-2f80-400e-ad61-b0162167e751)
