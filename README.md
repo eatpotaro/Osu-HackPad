@@ -23,14 +23,13 @@ Designed using KiCAD. Im quite happy with the routing on the PCB
 <img width="1015" height="660" alt="image" src="https://github.com/user-attachments/assets/b9e13417-a368-497a-886c-258006e820d0" />
 
 # BOM
-- 4x Cherry MX Switches
-- 4x DSA Keycaps
-- 1x 0.91" 128x32 OLED Display
-- 4x M3 screws
-- 4x M3x5x4 Heatset inserts
-- 1x Case
-- 1x Plate
-- 1x XIAO RP2040
+- 4x Cherry MX Switches https://mechboards.co.uk/products/cherry-mx-speed-silver?variant=41880261034189
+- 4x DSA Keycaps  https://mechbox.co.uk/products/dsa-single-keycaps?variant=39659368710306
+- 1x 0.91" 128x32 OLED Display  https://kunkune.co.uk/shop/arduino-shields/0-91-inch-128x32-blue-iic-i2c-oled-lcd-display-module-3-3v-5v-arduino/
+- 4x M3 screws https://www.screwfix.com/p/easyfix-bright-zinc-plated-pan-machine-screws-m3-x-20mm-25-pack/5875J?tc=QB9
+- 1x Case (3D printed)
+- 1x Plate (3D printed)
+- 1x XIAO RP2040 https://thepihut.com/products/seeed-xiao-rp2040?variant=53975380263297&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
 
 # Pictures
 Pictures of finished product
