@@ -6,6 +6,9 @@ Hackpad for blueprint run by Hack Club
 - 0.91 inch OLED display to display recent keypresses
 - KMK support
 
+# How to use
+After uploading the required arduino code, simply run and use! You may need to rebind the keys in Osu! to make sure they are correct. 
+ 
 # CAD Model
 Designed using Fusion360. 
 Heres images of the plate, the case, both together, and with pcb
